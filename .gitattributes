@@ -1,13 +1,7 @@
 *.html linguist-detectable=false
 blog.html linguist-detectable=true
 *.css linguist-detectable=false
-bootstrap.min.js linguist-detectable=false
-contact.js linguist-detectable=false
+*.js linguist-detectable=false
 custom.js linguist-detectable=false
-gmaps.min.js linguist-detectable=false
-jquery-3.2.1.min.js linguist-detectable=false
-jquery.ajaxchimp.min.js linguist-detectable=false
-jquery.form.js linguist-detectable=false
-jquery.validate.min.js linguist-detectable=false
 mail-script.js linguist-detectable=false
 *.scss linguist-detectable=false
