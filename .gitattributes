@@ -1,8 +1,5 @@
 *.html linguist-detectable=false
 blog.html linguist-detectable=true
-category.html linguist-detectable=true
-registration.html linguist-detectable=true
-singleblog3.html linguist-detectable=false
 *.css linguist-detectable=false
 bootstrap.min.js linguist-detectable=false
 contact.js linguist-detectable=false
